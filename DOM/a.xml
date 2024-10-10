@@ -1,0 +1,7 @@
+<?xml-stylesheet type="text/xsl" href="style.xsl"?>
+<note>
+  <to>Tove</to>
+  <from>Jani</from>
+  <heading>Reminder</heading>
+  <body>Don't forget to call me!, this is not a good thing</body>
+</note>
